@@ -1,2 +1,2 @@
 # hello-world
-optional !
+i am learning about github
